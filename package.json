@@ -1,0 +1,22 @@
+{
+  "name": "@kdominic/time-span",
+  "version": "1.0.0",
+  "description": "Converts a human-readable amount of time to milliseconds.",
+  "main": "time-span.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdominic89/time-span.js.git"
+  },
+  "author": "KDominic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdominic89/time-span.js/issues"
+  },
+  "homepage": "https://github.com/kdominic89/time-span.js#readme",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
